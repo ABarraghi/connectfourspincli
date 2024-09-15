@@ -1,0 +1,161 @@
+ONE PLAYER SAMPLE RUN:
+
+Welcome to Connect Four Spin - CLI Edition!
+Enter number of players, or type X to exit
+1
+Player one, please enter your name:
+Arman
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+
+Arman's turn. Type your move:
+0 0
+Arman moved at (0,0)
+O * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+
+Bot moved at (1,1)
+O * * * *
+* X * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+
+Board Flipped!
+O * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* X * * *
+* * * * *
+
+Arman's turn. Type your move:
+1 0
+Arman moved at (1,0)
+O * * * *
+O * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* X * * *
+* * * * *
+
+Bot moved at (0,1)
+O X * * *
+O * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* X * * *
+* * * * *
+
+Arman's turn. Type your move:
+2 0
+Arman moved at (2,0)
+O X * * *
+O * * * *
+O * * * *
+* * * * *
+* * * * *
+* * * * *
+* X * * *
+* * * * *
+
+Bot moved at (1,1)
+O X * * *
+O X * * *
+O * * * *
+* * * * *
+* * * * *
+* * * * *
+* X * * *
+* * * * *
+
+Arman's turn. Type your move:
+3 0
+Arman moved at (3,0)
+O X * * *
+O X * * *
+O * * * *
+O * * * *
+* * * * *
+* * * * *
+* X * * *
+* * * * *
+
+Board Flipped!
+* X * * *
+* X * * *
+* * * * *
+* * * * *
+O * * * *
+O * * * *
+O X * * *
+O * * * *
+
+Arman is victorious!
+
+2 PLAYER SAMPLE RUN: 
+
+
+Namra's turn. Type your move:
+0 4
+Namra moved at (0,4)
+* * * * X
+* * * * *
+* * * * *
+* * * * *
+* * * X *
+O * * * *
+O * * * *
+O * * * X
+
+Board Flipped!
+* * * * X
+* * * * *
+* * * * *
+* * * * *
+* * * X *
+O * * * *
+O * * * *
+O * * * X
+
+Arman's turn. Type your move:
+4 0
+Arman moved at (4,0)
+* * * * X
+* * * * *
+* * * * *
+* * * * *
+O * * X *
+O * * * *
+O * * * *
+O * * * X
+
+Arman is victorious!
+
+QUIT GAME RUN:
+
+Welcome to Connect Four Spin - CLI Edition!
+Enter number of players, or type X to exit
+X
+Ending game, goodbye!
